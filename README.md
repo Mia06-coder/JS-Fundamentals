@@ -1,4 +1,4 @@
-# 📘 JavaScript Fundamentals – Tasks 0 to 9
+# 📘 JavaScript Fundamentals – Tasks 0 to 10
 
 This repository contains beginner-friendly JavaScript scripts that explore the basics of JavaScript as both a **scripting language** and a **web front-end tool**.
 
@@ -36,6 +36,8 @@ By completing these 10 tasks, you will learn to:
 | `7-multi_c.js`               | Print “C is fun” `x` times based on argument                               |
 | `8-square.js`                | Print a square of “X” characters of size `x` using loops                   |
 | `9-add.js`                   | Print the sum of two arguments using a defined `add(a, b)` function        |
+| `10-factorial.js`            | Compute the factorial of an input number using recursion                   |
+|  |
 
 ---
 
@@ -50,6 +52,7 @@ node <filename.js> [arguments]
 node 0-javascript_is_amazing.js
 node 7-multi_c.js 4
 node 9-add.js 5 7
+node 10-factorial.js 5
 ```
 
 ## 📌 Notes
@@ -63,4 +66,5 @@ node 9-add.js 5 7
 ## 👩‍💻 Author
 
 _Mia_ – Software Developer in Training
-[GitHub Profile](https://github.com/Mia06-coder)
+[GitHub Profile](https://github.com/Mia06-coder) &
+[LinkedIn Profile](https://www.linkedin.com/in/mia-mudzingwa)
